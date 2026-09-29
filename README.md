@@ -38,12 +38,16 @@ This hardware prototype integrates robust power management, wireless connectivit
 ```text
 ESP32-8-Channel-Smart-Relay-Controller/
 │
-├── Documentation/            # Design exports and PDFs
-│   ├── Schematic.pdf
-│   └── Track Layout.png      # Place your exported PCB layout image here[cite: 7]
+├── Documentation/            # Design exports,PDFs & Render
+│   |__ Schematic.pdf
+│   |__Track Layout.pdf
+|   |__3D_View.png
+|   |__Bottom_View.png
+|   |__Top_View.png
+      
 │
 ├── Hardware/                 # Altium Designer source files & manufacturing outputs
-│   ├── Altium_Project/       # .PrjPcb, Power.SchDoc, Controller.SchDoc, Relays.SchDoc, .PcbDoc[cite: 6]
-│   └── Outputs/              # Gerber files, Drill files, and BOM
+│   |__ Altium_Project/       # .PrjPcb, Power.SchDoc, Controller.SchDoc, Relays.SchDoc, .PcbDoc
+│   |__ Outputs/              # Gerber files, Drill files, and BOM
 │
 └── README.md                 # Project documentation
