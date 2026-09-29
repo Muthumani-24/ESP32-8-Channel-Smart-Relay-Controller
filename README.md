@@ -31,6 +31,7 @@ This hardware prototype integrates robust power management, wireless connectivit
 
 ### Bottom Layer View
 ![Bottom View](Documentation/Bottom_View.png)
+
 ---
 
 ## 📂 Repository Structure
