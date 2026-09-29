@@ -24,13 +24,13 @@ This hardware prototype integrates robust power management, wireless connectivit
 ## 📷 PCB Visualizations & Renders
 
 ### 3D Board View
-![3D View](Documentation/3D_View.png)
+![3D View](ESP32-8-Channel-Smart-Relay-Controller/Documentation/3D_View.png)
 
 ### Top Layer View
-![Top View](Documentation/Top_View.png)
+![Top View](ESP32-8-Channel-Smart-Relay-Controller/Documentation/Top_View.png)
 
 ### Bottom Layer View
-![Bottom View](Documentation/Bottom_View.png)
+![Bottom View](ESP32-8-Channel-Smart-Relay-Controller/Documentation/Bottom_View.png)
 
 ---
 
