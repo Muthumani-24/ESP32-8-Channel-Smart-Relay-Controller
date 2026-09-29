@@ -19,9 +19,18 @@ This hardware prototype integrates robust power management, wireless connectivit
 
 ---
 
-## 📷 PCB Track Layout Preview
-![PCB Track Layout](Documentation/Track_Layout.png)
+---
 
+## 📷 PCB Visualizations & Renders
+
+### 3D Board View
+![3D View](Documentation/3D_View.png)
+
+### Top Layer View
+![Top View](Documentation/Top_View.png)
+
+### Bottom Layer View
+![Bottom View](Documentation/Bottom_View.png)
 ---
 
 ## 📂 Repository Structure
